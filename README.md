@@ -6,8 +6,6 @@ Welcome to the Multifunctional NLP Toolkit – a complete Natural Language Proce
 ## Table of Contents
 - [Project Description](#project-description)
 - [Features](#features)
-- [Key Points](#key-points)
-- [Tech Stack](#tech-stack)
 - [Usage](#usage)
 - [Results](#results)
 - [Contributions](#contributions)
@@ -24,22 +22,6 @@ The Multifunctional NLP Toolkit is a comprehensive project that covers three imp
 - **Spell Corrector**: Automatically fix spelling errors in English words and sentences for more accurate text.
 - **Skill Filtering**: An application to help HR teams filter resumes based on skills, simplifying candidate selection.
 
-## Key Points
-
-1. **Mastering Data**: Understand the data's structure, variables, and relationships for effective analysis.
-2. **Data Refinement**: Use advanced techniques to clean data by addressing missing values, duplicates, and inconsistencies.
-3. **Insightful Exploration**: Conduct comprehensive exploratory data analysis (EDA) to uncover patterns and relationships.
-4. **Data Transformation**: Skillfully preprocess data for optimal model training, including encoding and scaling.
-5. **Model Ensemble**: Utilize machine learning algorithms like XGBoost and Random Forest for classification tasks.
-6. **Fine-tuning Performance**: Adjust model hyperparameters for outstanding predictive accuracy.
-
-## Tech Stack
-
-- Python 3: Used for data analysis, machine learning, and application development.
-- NLTK, scikit-learn: Empowering NLP and machine learning tasks.
-- Jupyter Notebook: A tool for data exploration, analysis, and model development.
-- Flask: Framework for creating the skill filtering application.
-- Git and GitHub: Tools for version control and collaborative development.
 
 ## Usage
 
