@@ -2,7 +2,6 @@
 
 Welcome to the Multifunctional NLP Toolkit – a complete Natural Language Processing solution that simplifies language-related tasks. This project includes three core functions: translation to various languages, automatic spelling correction, and skill-based resume filtering. Delve into the world of NLP and experience the convenience of seamless communication and information handling.
 
-
 ## Table of Contents
 - [Project Description](#project-description)
 - [Features](#features)
